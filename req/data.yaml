@@ -1,0 +1,12 @@
+names:
+- target
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: target-aim
+  url: https://universe.roboflow.com/personal-n54sc/target-aim/dataset/1
+  version: 1
+  workspace: personal-n54sc
+test: ../test/images
+train: ../train/images
+val: ../valid/images
